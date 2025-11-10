@@ -47,12 +47,12 @@ $$\{evaluator(reviewer(paper)) | reviewer, evaluator \in [DS, KM, DB], paper \in
 
 ## 评分统计
 
-对论文 FLATQUANT: Flatness Matters for LLM Quantization 进行DeepSeek、KIMI、豆包、文心的质疑与相互评分统计，共得到12组得分。
+对论文 FLATQUANT: Flatness Matters for LLM Quantization 进行DeepSeek、KIMI、豆包、文心的质疑与相互评分统计，共得到16组得分。
 
 | 质疑模型 | Deepseek打分 | Kimi打分 | 豆包打分 | 文心打分 |
 |:-----------------:|:---------:|:-----:|:-----:|:---------:|
-| Deepseek         |          | 8.6  | 8.2  | 8.4      |
-| Kimi             | 8.6      |      | 8.6  | 8.8      |
-| 豆包             | 8.4      | 8.4  |      | 8.6      |
-| 文心一言         | 7.8      | 8.0  | 8.4  |          |
+| Deepseek         | 7.8      | 8.6  | 8.2  | 8.4      |
+| Kimi             | 8.6      | 8.8  | 8.6  | 8.8      |
+| 豆包             | 8.4      | 8.4  | 8.8  | 8.6      |
+| 文心一言         | 7.8      | 8.0  | 8.4  | 8.2      |
 
